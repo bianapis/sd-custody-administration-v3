@@ -1,0 +1,26 @@
+{
+  "dividendsandInterestCustodyDividendsandInterestServiceDescription" : "dividendsandInterestCustodyDividendsandInterestServiceDescription",
+  "dividendsandInterestPostconditions" : "dividendsandInterestPostconditions",
+  "dividendsandInterestRetrieveActionTaskReference" : "DAIRATR756622",
+  "dividendsandInterestRetrieveActionResponse" : "dividendsandInterestRetrieveActionResponse",
+  "custodyDividendsandInterest" : "custodyDividendsandInterest",
+  "dividendsandInterestCustodyDividendsandInterestServiceName" : "dividendsandInterestCustodyDividendsandInterestServiceName",
+  "dividendsandInterestCustodyDividendsandInterestServiceWorkProduct" : "dividendsandInterestCustodyDividendsandInterestServiceWorkProduct",
+  "dividendsandInterestCustodyDividendsandInterestServiceInputsandOuputs" : "dividendsandInterestCustodyDividendsandInterestServiceInputsandOuputs",
+  "dividendsandInterestInstanceReport" : {
+    "dividendsandInterestInstanceReportType" : "dividendsandInterestInstanceReportType",
+    "dividendsandInterestInstanceReport" : {},
+    "dividendsandInterestInstanceReportRecord" : {},
+    "dividendsandInterestInstanceReportParameters" : "dividendsandInterestInstanceReportParameters"
+  },
+  "dividendsandInterestCustodyDividendsandInterestServiceType" : "dividendsandInterestCustodyDividendsandInterestServiceType",
+  "dividendsandInterestPreconditions" : "dividendsandInterestPreconditions",
+  "dividendsandInterestRetrieveActionTaskRecord" : {},
+  "dividendsandInterestFeatureSchedule" : "dividendsandInterestFeatureSchedule",
+  "dividendsandInterestInstanceAnalysis" : {
+    "dividendsandInterestInstanceAnalysisReport" : {},
+    "dividendsandInterestInstanceAnalysisParameters" : "dividendsandInterestInstanceAnalysisParameters",
+    "dividendsandInterestInstanceAnalysisReportType" : "dividendsandInterestInstanceAnalysisReportType",
+    "dividendsandInterestInstanceAnalysisRecord" : {}
+  }
+}

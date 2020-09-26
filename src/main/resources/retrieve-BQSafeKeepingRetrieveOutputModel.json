@@ -1,0 +1,26 @@
+{
+  "safeKeepingRetrieveActionTaskReference" : "SKRATR737011",
+  "safeKeepingSecuritiesSafeKeepingServiceType" : "safeKeepingSecuritiesSafeKeepingServiceType",
+  "safeKeepingInstanceReport" : {
+    "safeKeepingInstanceReportParameters" : "safeKeepingInstanceReportParameters",
+    "safeKeepingInstanceReportRecord" : {},
+    "safeKeepingInstanceReportType" : "safeKeepingInstanceReportType",
+    "safeKeepingInstanceReport" : {}
+  },
+  "safeKeepingSecuritiesSafeKeepingServiceInputsandOuputs" : "safeKeepingSecuritiesSafeKeepingServiceInputsandOuputs",
+  "safeKeepingPreconditions" : "safeKeepingPreconditions",
+  "safeKeepingSecuritiesSafeKeepingServiceDescription" : "safeKeepingSecuritiesSafeKeepingServiceDescription",
+  "securitiesSafeKeeping" : "securitiesSafeKeeping",
+  "safeKeepingFeatureSchedule" : "safeKeepingFeatureSchedule",
+  "safeKeepingRetrieveActionResponse" : "safeKeepingRetrieveActionResponse",
+  "safeKeepingSecuritiesSafeKeepingServiceName" : "safeKeepingSecuritiesSafeKeepingServiceName",
+  "safeKeepingRetrieveActionTaskRecord" : {},
+  "safeKeepingPostconditions" : "safeKeepingPostconditions",
+  "safeKeepingSecuritiesSafeKeepingServiceWorkProduct" : "safeKeepingSecuritiesSafeKeepingServiceWorkProduct",
+  "safeKeepingInstanceAnalysis" : {
+    "safeKeepingInstanceAnalysisParameters" : "safeKeepingInstanceAnalysisParameters",
+    "safeKeepingInstanceAnalysisReport" : {},
+    "safeKeepingInstanceAnalysisRecord" : {},
+    "safeKeepingInstanceAnalysisReportType" : "safeKeepingInstanceAnalysisReportType"
+  }
+}

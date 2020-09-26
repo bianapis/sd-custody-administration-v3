@@ -1,0 +1,15 @@
+{
+  "securitiesReportingInstanceReference" : "SRIR747723",
+  "securitiesReportingCustodySecuritiesReportingServiceDescription" : "securitiesReportingCustodySecuritiesReportingServiceDescription",
+  "securitiesReportingInitiateActionRecord" : {},
+  "securitiesReportingPreconditions" : "securitiesReportingPreconditions",
+  "securitiesReportingCustodySecuritiesReportingServiceName" : "securitiesReportingCustodySecuritiesReportingServiceName",
+  "securitiesReportingInstanceStatus" : "securitiesReportingInstanceStatus",
+  "custodySecuritiesReporting" : "custodySecuritiesReporting",
+  "securitiesReportingFeatureSchedule" : "securitiesReportingFeatureSchedule",
+  "securitiesReportingPostconditions" : "securitiesReportingPostconditions",
+  "securitiesReportingInitiateActionReference" : "SRIAR716248",
+  "securitiesReportingCustodySecuritiesReportingServiceType" : "securitiesReportingCustodySecuritiesReportingServiceType",
+  "securitiesReportingCustodySecuritiesReportingServiceInputsandOuputs" : "securitiesReportingCustodySecuritiesReportingServiceInputsandOuputs",
+  "securitiesReportingCustodySecuritiesReportingServiceWorkProduct" : "securitiesReportingCustodySecuritiesReportingServiceWorkProduct"
+}

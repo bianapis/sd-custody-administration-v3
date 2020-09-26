@@ -1,0 +1,28 @@
+{
+  "custodyArrangementRetrieveActionResponse" : "custodyArrangementRetrieveActionResponse",
+  "custodyArrangementRegulationReference" : "CARR755162",
+  "custodyArrangementReference" : "CAR756988",
+  "custodyArrangementBookingLocation" : "custodyArrangementBookingLocation",
+  "custodyArrangementRetrieveActionTaskRecord" : {},
+  "custodyArrangementType" : "custodyArrangementType",
+  "custodyArrangementRegulationType" : "custodyArrangementRegulationType",
+  "custodyArrangementInstanceAnalysis" : {
+    "custodyArrangementInstanceAnalysisReport" : {},
+    "custodyArrangementInstanceAnalysisData" : "custodyArrangementInstanceAnalysisData",
+    "custodyArrangementInstanceAnalysisReportType" : "custodyArrangementInstanceAnalysisReportType"
+  },
+  "custodyArrangementSelectedOption" : "custodyArrangementSelectedOption",
+  "custodyArrangementJurisdiction" : "custodyArrangementJurisdiction",
+  "custodyArrangementAccountType" : "custodyArrangementAccountType",
+  "custodyArrangementAccountReference" : "CAAR745805",
+  "custodyArrangementCurrency" : "USD",
+  "custodyArrangementParameterType" : "custodyArrangementParameterType",
+  "custodyArrangementSchedule" : "custodyArrangementSchedule",
+  "custodyArrangementStatus" : "custodyArrangementStatus",
+  "custodyArrangementRetrieveActionTaskReference" : "CARATR750478",
+  "custodyArrangementInstanceReportRecord" : {
+    "custodyArrangementInstanceReportType" : "custodyArrangementInstanceReportType",
+    "custodyArrangementInstanceReport" : {},
+    "custodyArrangementInstanceReportData" : "custodyArrangementInstanceReportData"
+  }
+}

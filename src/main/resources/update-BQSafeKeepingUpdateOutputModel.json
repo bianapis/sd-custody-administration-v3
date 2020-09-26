@@ -1,0 +1,14 @@
+{
+  "securitiesSafeKeeping" : "securitiesSafeKeeping",
+  "safeKeepingSecuritiesSafeKeepingServiceType" : "safeKeepingSecuritiesSafeKeepingServiceType",
+  "safeKeepingFeatureSchedule" : "safeKeepingFeatureSchedule",
+  "safeKeepingSecuritiesSafeKeepingServiceName" : "safeKeepingSecuritiesSafeKeepingServiceName",
+  "updateResponseRecord" : {},
+  "safeKeepingUpdateActionTaskReference" : "SKUATR794605",
+  "safeKeepingUpdateActionTaskRecord" : {},
+  "safeKeepingSecuritiesSafeKeepingServiceInputsandOuputs" : "safeKeepingSecuritiesSafeKeepingServiceInputsandOuputs",
+  "safeKeepingPreconditions" : "safeKeepingPreconditions",
+  "safeKeepingPostconditions" : "safeKeepingPostconditions",
+  "safeKeepingSecuritiesSafeKeepingServiceWorkProduct" : "safeKeepingSecuritiesSafeKeepingServiceWorkProduct",
+  "safeKeepingSecuritiesSafeKeepingServiceDescription" : "safeKeepingSecuritiesSafeKeepingServiceDescription"
+}

@@ -1,0 +1,15 @@
+{
+  "safeKeepingInstanceStatus" : "safeKeepingInstanceStatus",
+  "safeKeepingControlActionTaskReference" : "SKCATR797089",
+  "safeKeepingSecuritiesSafeKeepingServiceType" : "safeKeepingSecuritiesSafeKeepingServiceType",
+  "safeKeepingControlActionTaskRecord" : {},
+  "safeKeepingSecuritiesSafeKeepingServiceInputsandOuputs" : "safeKeepingSecuritiesSafeKeepingServiceInputsandOuputs",
+  "safeKeepingPreconditions" : "safeKeepingPreconditions",
+  "safeKeepingSecuritiesSafeKeepingServiceDescription" : "safeKeepingSecuritiesSafeKeepingServiceDescription",
+  "securitiesSafeKeeping" : "securitiesSafeKeeping",
+  "safeKeepingFeatureSchedule" : "safeKeepingFeatureSchedule",
+  "safeKeepingSecuritiesSafeKeepingServiceName" : "safeKeepingSecuritiesSafeKeepingServiceName",
+  "safeKeepingControlActionResponse" : "safeKeepingControlActionResponse",
+  "safeKeepingPostconditions" : "safeKeepingPostconditions",
+  "safeKeepingSecuritiesSafeKeepingServiceWorkProduct" : "safeKeepingSecuritiesSafeKeepingServiceWorkProduct"
+}

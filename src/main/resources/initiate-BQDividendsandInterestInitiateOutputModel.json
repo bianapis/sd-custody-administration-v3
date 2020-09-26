@@ -1,0 +1,15 @@
+{
+  "dividendsandInterestCustodyDividendsandInterestServiceDescription" : "dividendsandInterestCustodyDividendsandInterestServiceDescription",
+  "dividendsandInterestInitiateActionReference" : "DAIIAR712520",
+  "dividendsandInterestPostconditions" : "dividendsandInterestPostconditions",
+  "dividendsandInterestInitiateActionRecord" : {},
+  "custodyDividendsandInterest" : "custodyDividendsandInterest",
+  "dividendsandInterestCustodyDividendsandInterestServiceName" : "dividendsandInterestCustodyDividendsandInterestServiceName",
+  "dividendsandInterestCustodyDividendsandInterestServiceWorkProduct" : "dividendsandInterestCustodyDividendsandInterestServiceWorkProduct",
+  "dividendsandInterestCustodyDividendsandInterestServiceInputsandOuputs" : "dividendsandInterestCustodyDividendsandInterestServiceInputsandOuputs",
+  "dividendsandInterestInstanceStatus" : "dividendsandInterestInstanceStatus",
+  "dividendsandInterestInstanceReference" : "DAIIR755995",
+  "dividendsandInterestCustodyDividendsandInterestServiceType" : "dividendsandInterestCustodyDividendsandInterestServiceType",
+  "dividendsandInterestPreconditions" : "dividendsandInterestPreconditions",
+  "dividendsandInterestFeatureSchedule" : "dividendsandInterestFeatureSchedule"
+}

@@ -1,0 +1,39 @@
+{
+  "custodyAdministrationRetrieveActionResponse" : "custodyAdministrationRetrieveActionResponse",
+  "custodyAdministrationRetrieveActionTaskRecord" : {},
+  "custodyAdministrationOfferedService" : {
+    "custodyAdministrationServiceReference" : "776158",
+    "custodyAdministrationServiceRecord" : {
+      "custodyAdministrationServicePoliciesandGuidelines" : {
+        "custodyAdministrationServiceEligibility" : "custodyAdministrationServiceEligibility",
+        "custodyAdministrationServiceIntendedUses" : "custodyAdministrationServiceIntendedUses",
+        "custodyAdministrationServicePricingandTerms" : "custodyAdministrationServicePricingandTerms"
+      },
+      "custodyAdministrationServiceSchedule" : "custodyAdministrationServiceSchedule",
+      "custodyAdministrationServiceType" : "custodyAdministrationServiceType",
+      "custodyAdministrationServiceVersion" : "custodyAdministrationServiceVersion",
+      "custodyAdministrationServiceDescription" : "custodyAdministrationServiceDescription"
+    }
+  },
+  "custodyAdministrationRetrieveActionRecord" : {
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "custodyAdministrationPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "custodyAdministrationActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  },
+  "custodyAdministrationRetrieveActionTaskReference" : "SRATR795161"
+}

@@ -1,0 +1,24 @@
+{
+  "custodyAdministrationServicingSessionRecord" : {},
+  "custodyAdministrationActivationActionTaskReference" : "SAATR758836",
+  "custodyAdministrationServiceConfigurationRecord" : {
+    "custodyAdministrationServiceSubscription" : {
+      "custodyAdministrationServiceSubscriberReference" : "769192",
+      "custodyAdministrationServiceSubscriberAccessProfile" : "custodyAdministrationServiceSubscriberAccessProfile"
+    },
+    "custodyAdministrationServiceAgreement" : {
+      "custodyAdministrationServiceUserReference" : "767210",
+      "custodyAdministrationServiceAgreementTermsandConditions" : "custodyAdministrationServiceAgreementTermsandConditions",
+      "custodyAdministrationServiceAgreementReference" : "791202"
+    },
+    "custodyAdministrationServiceConfigurationSetup" : {
+      "custodyAdministrationServiceConfigurationParameter" : "custodyAdministrationServiceConfigurationParameter"
+    },
+    "custodyAdministrationServiceStatus" : "custodyAdministrationServiceStatus",
+    "custodyAdministrationServiceConfigurationSettingReference" : "700761",
+    "custodyAdministrationServiceConfigurationSettingDescription" : "custodyAdministrationServiceConfigurationSettingDescription"
+  },
+  "custodyAdministrationActivationActionTaskRecord" : {},
+  "custodyAdministrationServicingSessionReference" : "SSSR783215",
+  "custodyAdministrationServicingSessionStatus" : "custodyAdministrationServicingSessionStatus"
+}

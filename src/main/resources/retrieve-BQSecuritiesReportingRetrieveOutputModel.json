@@ -1,0 +1,26 @@
+{
+  "securitiesReportingRetrieveActionResponse" : "securitiesReportingRetrieveActionResponse",
+  "securitiesReportingCustodySecuritiesReportingServiceDescription" : "securitiesReportingCustodySecuritiesReportingServiceDescription",
+  "securitiesReportingInstanceReport" : {
+    "securitiesReportingInstanceReport" : {},
+    "securitiesReportingInstanceReportType" : "securitiesReportingInstanceReportType",
+    "securitiesReportingInstanceReportRecord" : {},
+    "securitiesReportingInstanceReportParameters" : "securitiesReportingInstanceReportParameters"
+  },
+  "securitiesReportingRetrieveActionTaskRecord" : {},
+  "securitiesReportingPreconditions" : "securitiesReportingPreconditions",
+  "securitiesReportingCustodySecuritiesReportingServiceName" : "securitiesReportingCustodySecuritiesReportingServiceName",
+  "securitiesReportingRetrieveActionTaskReference" : "SRRATR782731",
+  "securitiesReportingInstanceAnalysis" : {
+    "securitiesReportingInstanceAnalysisRecord" : {},
+    "securitiesReportingInstanceAnalysisReport" : {},
+    "securitiesReportingInstanceAnalysisParameters" : "securitiesReportingInstanceAnalysisParameters",
+    "securitiesReportingInstanceAnalysisReportType" : "securitiesReportingInstanceAnalysisReportType"
+  },
+  "custodySecuritiesReporting" : "custodySecuritiesReporting",
+  "securitiesReportingFeatureSchedule" : "securitiesReportingFeatureSchedule",
+  "securitiesReportingPostconditions" : "securitiesReportingPostconditions",
+  "securitiesReportingCustodySecuritiesReportingServiceType" : "securitiesReportingCustodySecuritiesReportingServiceType",
+  "securitiesReportingCustodySecuritiesReportingServiceInputsandOuputs" : "securitiesReportingCustodySecuritiesReportingServiceInputsandOuputs",
+  "securitiesReportingCustodySecuritiesReportingServiceWorkProduct" : "securitiesReportingCustodySecuritiesReportingServiceWorkProduct"
+}

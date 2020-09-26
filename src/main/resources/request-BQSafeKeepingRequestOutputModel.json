@@ -1,0 +1,15 @@
+{
+  "safeKeepingSecuritiesSafeKeepingServiceType" : "safeKeepingSecuritiesSafeKeepingServiceType",
+  "safeKeepingRequestActionTaskReference" : "SKRATR788064",
+  "safeKeepingRequestRecordReference" : "SKRRR795433",
+  "safeKeepingSecuritiesSafeKeepingServiceInputsandOuputs" : "safeKeepingSecuritiesSafeKeepingServiceInputsandOuputs",
+  "safeKeepingPreconditions" : "safeKeepingPreconditions",
+  "requestResponseRecord" : {},
+  "safeKeepingSecuritiesSafeKeepingServiceDescription" : "safeKeepingSecuritiesSafeKeepingServiceDescription",
+  "securitiesSafeKeeping" : "securitiesSafeKeeping",
+  "safeKeepingRequestActionTaskRecord" : {},
+  "safeKeepingFeatureSchedule" : "safeKeepingFeatureSchedule",
+  "safeKeepingSecuritiesSafeKeepingServiceName" : "safeKeepingSecuritiesSafeKeepingServiceName",
+  "safeKeepingPostconditions" : "safeKeepingPostconditions",
+  "safeKeepingSecuritiesSafeKeepingServiceWorkProduct" : "safeKeepingSecuritiesSafeKeepingServiceWorkProduct"
+}

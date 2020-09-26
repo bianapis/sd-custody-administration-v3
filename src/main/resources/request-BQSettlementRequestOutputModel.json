@@ -1,0 +1,14 @@
+{
+  "settlementServiceType" : "settlementServiceType",
+  "businessService" : "businessService",
+  "settlementServiceDescription" : "settlementServiceDescription",
+  "settlementServiceWorkProduct" : "settlementServiceWorkProduct",
+  "settlementPreconditions" : "settlementPreconditions",
+  "settlementFeatureSchedule" : "settlementFeatureSchedule",
+  "settlementRequestActionTaskRecord" : {},
+  "settlementPostconditions" : "settlementPostconditions",
+  "settlementRequestRecordReference" : "SRRRR720454",
+  "settlementRequestActionTaskReference" : "SRATR730201",
+  "settlementServiceInputsandOuputs" : "settlementServiceInputsandOuputs",
+  "requestResponseRecord" : {}
+}

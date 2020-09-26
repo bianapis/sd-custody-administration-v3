@@ -1,0 +1,25 @@
+{
+  "settlementServiceType" : "settlementServiceType",
+  "businessService" : "businessService",
+  "settlementServiceWorkProduct" : "settlementServiceWorkProduct",
+  "settlementPreconditions" : "settlementPreconditions",
+  "settlementRetrieveActionResponse" : "settlementRetrieveActionResponse",
+  "settlementInstanceReport" : {
+    "settlementInstanceReportType" : "settlementInstanceReportType",
+    "settlementInstanceReport" : {},
+    "settlementInstanceReportParameters" : "settlementInstanceReportParameters",
+    "settlementInstanceReportRecord" : {}
+  },
+  "settlementRetrieveActionTaskRecord" : {},
+  "settlementServiceDescription" : "settlementServiceDescription",
+  "settlementRetrieveActionTaskReference" : "SRATR737325",
+  "settlementFeatureSchedule" : "settlementFeatureSchedule",
+  "settlementInstanceAnalysis" : {
+    "settlementInstanceAnalysisReportType" : "settlementInstanceAnalysisReportType",
+    "settlementInstanceAnalysisRecord" : {},
+    "settlementInstanceAnalysisParameters" : "settlementInstanceAnalysisParameters",
+    "settlementInstanceAnalysisReport" : {}
+  },
+  "settlementPostconditions" : "settlementPostconditions",
+  "settlementServiceInputsandOuputs" : "settlementServiceInputsandOuputs"
+}

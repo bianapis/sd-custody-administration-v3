@@ -1,0 +1,14 @@
+{
+  "settlementServiceType" : "settlementServiceType",
+  "businessService" : "businessService",
+  "settlementServiceDescription" : "settlementServiceDescription",
+  "settlementExecuteActionTaskRecord" : {},
+  "settlementServiceWorkProduct" : "settlementServiceWorkProduct",
+  "settlementExecuteActionTaskReference" : "SEATR763517",
+  "settlementPreconditions" : "settlementPreconditions",
+  "executeResponseRecord" : {},
+  "settlementFeatureSchedule" : "settlementFeatureSchedule",
+  "settlementExecuteRecordReference" : "SERR757038",
+  "settlementPostconditions" : "settlementPostconditions",
+  "settlementServiceInputsandOuputs" : "settlementServiceInputsandOuputs"
+}

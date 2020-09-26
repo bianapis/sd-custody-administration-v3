@@ -1,0 +1,13 @@
+{
+  "settlementServiceType" : "settlementServiceType",
+  "businessService" : "businessService",
+  "settlementServiceDescription" : "settlementServiceDescription",
+  "settlementServiceWorkProduct" : "settlementServiceWorkProduct",
+  "settlementPreconditions" : "settlementPreconditions",
+  "settlementFeatureSchedule" : "settlementFeatureSchedule",
+  "updateResponseRecord" : {},
+  "settlementPostconditions" : "settlementPostconditions",
+  "settlementServiceInputsandOuputs" : "settlementServiceInputsandOuputs",
+  "settlementUpdateActionTaskReference" : "SUATR706384",
+  "settlementUpdateActionTaskRecord" : {}
+}
